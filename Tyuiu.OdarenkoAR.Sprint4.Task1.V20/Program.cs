@@ -14,9 +14,9 @@ namespace Tyuiu.OdarenkoAR.Sprint4.Task1.V20
             Console.Title = "Спринт #4 | Выполнила: Одаренко А. Р. | ИСПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: одномерные массивы (статический ввод)                             *");
-            Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #3                                                              *");
+            Console.WriteLine("* Тема: одномерные массивы (ввод с клавиатуры)                            *");
+            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Вариант #20                                                             *");
             Console.WriteLine("* Выполнила Одаренко А. Р. | ИСПб-23-1                                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
